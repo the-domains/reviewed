@@ -2,6 +2,7 @@ name: reviewed
 favicon: null
 layout_spectrum: 0.9551986146252602
 typography_spectrum: 0.22724251099862158
+title: The Grid Test
 cta:
   domain: null
   bucket: null
