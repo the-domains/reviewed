@@ -1,7 +1,7 @@
 name: reviewed
 favicon: null
-layout_spectrum: 0.9551986146252602
-typography_spectrum: 0.22724251099862158
+layout_spectrum: 0.36032
+typography_spectrum: 0.49276
 title: The Grid Test
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5111452369019389
-  lightness: 0.10477546113543212
-  saturation: 0.5470994014758617
-  rhythmicContrast: 0.979618841316551
+    - '#e2d9de'
+    - '#292148'
+    - '#90a6b1'
+    - '#6f8ca0'
+    - '#3a474a'
+  brandStrength: 0.5625
+  lightness: 0.5625
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
